@@ -22,9 +22,27 @@ body {
 
 .cabeçalho-imagem {
     height: 72px;
-
 }
 
 .cabeçalho-menu{
+    display: flex;
+    gap: 32px;
+}
+
+.cabeçalho-menu-item {
+    font-family: 'Sarala', sans-serif;
+    color: #fff2E7;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.conteudo {
+    margin-bottom: 48px;
+    border-top: 0.4px soli #fff2E7;
+}
+
+.conteudo-principal {
+    display: flex;
+    flex-direction: row;
     
 }
