@@ -109,3 +109,13 @@ body {
     font-size: 18px;
     color: #ECD6C4;
 }
+
+.rodape {
+    padding: 32px;
+    border-top: 0.4px solid #FFF2E7;
+}
+
+.rodapé-imagem {
+    height: 48px;
+    
+}
