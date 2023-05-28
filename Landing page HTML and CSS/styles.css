@@ -12,7 +12,7 @@ body {
     background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
 }
 
-.cabeçalho{
+.cabeçalho {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -24,7 +24,7 @@ body {
     height: 72px;
 }
 
-.cabeçalho-menu{
+.cabeçalho-menu {
     display: flex;
     gap: 32px;
 }
@@ -44,5 +44,6 @@ body {
 .conteudo-principal {
     display: flex;
     flex-direction: row;
-    
+    align-items: center;
+    justify-content: space-around;
 }
