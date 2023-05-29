@@ -81,7 +81,7 @@ body {
     color: #2F2325;
 }
 
-..conteudo-principal-escrito-subtitulo:hover {
+.conteudo-principal-escrito-subtitulo:hover {
     background-color: rgba(236, 214, 196, 0.53);
 }
 
