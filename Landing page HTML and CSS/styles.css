@@ -81,6 +81,12 @@ body {
     color: #2F2325;
 }
 
+..conteudo-principal-escrito-subtitulo:hover {
+    background-color: rgba(236, 214, 196, 0.53);
+}
+
+
+
 .imagem-cbeçalho {
     height: 430px;
 }
@@ -117,5 +123,6 @@ body {
 
 .rodapé-imagem {
     height: 48px;
-    
+    display: block;
+    margin: 0 auto;
 }
